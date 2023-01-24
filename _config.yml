@@ -1,5 +1,5 @@
 # name of the software
-name: Jekyll Docs Theme
+name: MATH 2310 SPRING 2023
 
 project:
   version: 1.0.0
@@ -20,7 +20,7 @@ links:
       brand: true
       url: https://github.com/allejo/jekyll-docs-theme
   homepage:
-    - title: View on GitHub
+    - title: Olsen MATH 2310 Spring 2023
       icon: github
       brand: true
       url: https://github.com/allejo/jekyll-docs-theme

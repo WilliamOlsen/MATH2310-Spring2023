@@ -2,67 +2,49 @@
 layout: full
 homepage: true
 disable_anchors: true
-description: If mediocrity had a Jekyll theme...
+description: An interactive Calculus III course.
 ---
 
-A Jekyll theme inspired by Bootstrap's official documentation theme from a few years back. This theme started off by stealing all of Bootstrap Docs' CSS and being used in [mistic100's theme](https://github.com/mistic100/jekyll-bootstrap-doc). This theme has since be rewritten from scratch and remains solely inspired by the original design.
-
-> I've never seen a more mediocre theme it actually hurts my insides.
->
-> ~ _Anonymous_, 2020
-
-This theme is designed for writing documentation websites instead of having large unmaintainable README files or several markdown files inside of a folder in a repository.
+This course provides an introduction to vector calculus and assumes familiarity with techniques/concepts from Calculus I, II. Starting with the elementary geometry of two- and three-space, we develop the calculus of vector-valued functions and multi-variables. We discuss parametrized space curves, limits of multi-variables functions, derivatives and the chain rule, and multi-variable integration.
 
 <div class="row">
 <div class="col-lg-6" markdown="1">
 
-## Installation
+## Course information
 {:.mt-lg-0}
 
-This theme is designed to work both as a Gem or as a remote theme, meaning we officially support GitHub Pages.
-
-### Gem
-
-Add this line to your Jekyll site's Gemfile:
-
-```ruby
-gem "jekyll-docs-theme"
-```
-
-And then enable and use the theme in your Jekyll site via its `_config.yml`.
-
 ```yaml
-theme: jekyll-docs-theme
+Instructor: William E. Olsen
+Email: weo3y@virginia.edu
+Office hours: MW 12:00pm -- 2:00pm Room 312 Kerchof Hall
+- Virtual office hours: T 12:00pm -- 1:00pm or by appointment
+- Link to VOH: https://virginia.zoom.us/j/8607372052
+- Recordings of previous VOH: YouTube
+Graduate assistant: Raul Hernandez
+- Email: raul_Rocks!@uva.edu 
 ```
 
-### GitHub Pages
+## Equity in mathematics
 
-And add this line to your Jekyll site's `_config.yml`:
+I do my best to incorporate research-based teaching practices in support of equity and diversity within mathematics. Listed below are a few links which I've found useful and enlightening:
+  - [Spectra out and ally list](http://lgbtmath.org/)
+  - [Behaviors academics should avoid completely](https://sites.google.com/view/basac-training/)
+  - [Mathematically Gifted and Black](https://mathematicallygiftedandblack.com/)
+  - [Indigenous mathematicians](https://indigenousmathematicians.org/)
+  - [Lathisms](https://www.lathisms.org/)
+  - [CUPA-HR 21-Day Racial Equality Habit Building Challenge](https://www.cupahr.org/events/21-day-challenges/21-day-racial-equity-habit-building-challenge/)
 
-```yaml
-remote_theme: allejo/jekyll-docs-theme@v{{ site.project.version }}
-```
+## Local events
 
+## Recent updates
+Here's a list of recent updates that I've made to the website.
+  - 11/29: updated link to Hw 8 solutions.
+  - Video example for computing the flux of a vector field using techniques from Section 16.7. Found under 'Course notes'.
+  
 </div>
 <div class="col-lg-6" markdown="1">
-
-## Features
+## Calendar
 {:.mt-lg-0}
-
-Despite being a mediocre theme, we've got a features that we're especially proud of and dedicate a lot of our time to making sure they work as expected.
-
-### Graceful Degradation
-
-This theme uses as little JavaScript as possible. All of our anchors and table of contents are generated at build time. Any features that rely on JavaScript have fallbacks for graceful degradation. It's how the web should be nowadays.
-
-### Heavily Customizable
-
-A lot of parts in these theme consist of empty Jekyll includes that are designed to be overridden by website owners. Inject your custom code easily to any part of the website!
-
-### Dark Mode
-
-We all know that dark mode makes you a better human. This theme supports a dark mode based on each user's preference.
-
+<iframe src="https://calendar.google.com/calendar/embed?src=5c7ecad7ae65e8db19743276a960f0c78bebeb183148d77a91f1e3fd24feb6be%40group.calendar.google.com&ctz=America%2FNew_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 </div>
 </div>
-
