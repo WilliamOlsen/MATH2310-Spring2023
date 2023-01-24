@@ -1,40 +1,40 @@
 # name of the software
-name: MATH 2310 SPRING 2023
+name: MATH 2310
 
 project:
   version: 1.0.0
-  download_url: https://github.com/allejo/jekyll-docs-theme/releases
-  download_text: Download
+  download_url: "{{ site.baseurl }}/Syllabus.pdf"
+  download_text: Syllabus
 
 license:
-  software: MIT License
-  software_url: https://opensource.org/licenses/MIT
+  software: 
+  software_url:
 
-  docs: CC BY 3.0
-  docs_url: https://creativecommons.org/licenses/by/3.0/
+  docs: Collab
+  docs_url:
 
 links:
   header:
-    - title: GitHub
-      icon: github
-      brand: true
-      url: https://github.com/allejo/jekyll-docs-theme
+    - title: 
+      icon: 
+      brand: false
+      url:
   homepage:
-    - title: Olsen MATH 2310 Spring 2023
-      icon: github
-      brand: true
-      url: https://github.com/allejo/jekyll-docs-theme
+    - title:
+      icon:
+      brand: false
+      url:
   footer:
-    - title: GitHub
-      icon: github
+    - title:
+      icon: 
       brand: true
-      url: https://github.com/allejo/jekyll-docs-theme
-    - title: Issues
-      icon: bug
-      url: https://github.com/allejo/jekyll-docs-theme/issues?state=open
+      url: 
+    - title:
+      icon:
+      url:
 
 ui:
-  mode: 'auto' # 'auto', 'dark', 'light'
+  mode: 'light' # 'auto', 'dark', 'light'
   brand:
     dark: "#00ceff"
     light: "#a20000"
