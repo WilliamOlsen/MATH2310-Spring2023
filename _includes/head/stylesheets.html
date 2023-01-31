@@ -14,3 +14,15 @@
     rel="stylesheet"
     href="{{ '/assets/css/styles.css' | relative_url }}"
 />
+
+<!-- Include for Sage Math -->
+<script src="https://sagecell.sagemath.org/static/embedded_sagecell.js"></script>
+<script>
+  // Make the div with id 'mycell' a Sage cell
+  sagecell.makeSagecell({inputLocation:  '#mycell',
+                         template:       sagecell.templates.minimal,
+                         evalButtonText: 'Activate'});
+  // Make *any* div with class 'compute' a Sage cell
+  sagecell.makeSagecell({inputLocation: 'div.compute',
+                         evalButtonText: 'Evaluate'});
+  </script>
