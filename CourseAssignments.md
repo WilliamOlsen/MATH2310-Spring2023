@@ -8,7 +8,7 @@ title: Course Assignments
 |             | Assignment | Solutions  |
 |:------------|:-----------|:-----------|
 | `Homework 1`| <a href = "{{ site.baseurl }}/CourseMaterials/Homework/Hw_1_Spring_2023.pdf">Hw 1</a> | <a href = "{{ site.baseurl }}/CourseMaterials/Homework/Hw1-Solutions-Spring2023.pdf">Hw 1 Solutions</a> |
-| `Homework 2`| <a href = "{{ site.baseurl }}/CourseMaterials/Homework/Hw_2_Spring_2023.pdf"> Hw 2</a> | HW 2 Solutions |
+| `Homework 2`| <a href = "{{ site.baseurl }}/CourseMaterials/Homework/Hw_2_Spring_2023.pdf"> Hw 2</a> |<a href = "{{ site.baseurl }}/CourseMaterials/Homework/Hw-2-Solutions-Spring-2023.pdf">Hw 2 Solutions</a> |
 
 ## Quizzes
 
