@@ -15,7 +15,7 @@ title: Course Assignments
 |          | Practice Quiz | Practice Quiz Solutions | Assignment | Solutions |
 |:---------|:--------------|:------------------------|:-----------|:----------|
 | `Quiz 1` | <a href = "{{ site.baseurl }}/CourseMaterials/Quiz/pQuiz1-Spring2022.pdf">Practice Quiz 1</a> | <a href = "{{ site.baseurl }}/CourseMaterials/Quiz/pQuiz1-Solutions-Spring2022.pdf">Solutions</a> | <a href = "#">Quiz 1</a> | Solutions |
-| `Quiz 2` | <a href = "#">Practice Quiz 2</a> | Solutions | <a href = "#">Quiz 2</a> | Solutions |
+| `Quiz 2` | <a href = "{{ site.baseurl }}/CourseMaterials/Quiz/pQuiz_2.pdf">Practice Quiz 2</a> | Solutions | <a href = "#">Quiz 2</a> | Solutions |
 
 ## Exams
 
