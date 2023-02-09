@@ -20,7 +20,7 @@ title: Course Notes
 |                | Notes | Python Notebook |
 |:---------------|:------|:----------------|
 | `Section 13.1` | <a href = "{{ site.baseurl }}/CourseMaterials/Notes/Section13-1-Notes.pdf">Space curves</a>| |
-| `Section 13.2` | <a href = "#">Notes</a>| |
+| `Section 13.2` | <a href = "{{ site.baseurl }}CourseMaterials/Notes/Section13-2-Notes.pdf">Arc length, normal vectors</a>| |
 
 ## Chapter 14
 
