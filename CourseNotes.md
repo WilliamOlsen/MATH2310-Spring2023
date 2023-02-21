@@ -28,4 +28,5 @@ title: Course Notes
 |:---------------|:------|:----------------|
 | `Section 14.1` | <a href = "{{ site.baseurl }}/CourseMaterials/Notes/Section14-1-Notes.pdf">Functions of two variables</a> | |
 | `Section 14.2` | <a href = "#">Notes</a> | |
+| `Section 14.3` | <a href = "#">Notes</a> | |
 
