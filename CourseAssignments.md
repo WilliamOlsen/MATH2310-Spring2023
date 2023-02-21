@@ -25,4 +25,4 @@ title: Course Assignments
 
 |          | Practice Exam | Practice Exam Solutions | Review Questions | Assignment | Solutions |
 |:---------|:--------------|:------------------------|:-----------------|:-----------|:----------|
-| `Exam 1` | <a href = "#">Practice Exam 1</a> | <a href = "#">Solutions</a> | Exam 1 Review | Exam 1 Spring 2023  | Solutions |
+| `Exam 1` | <a href = "#">A Practice Exam 1</a> | <a href = "#">Solutions</a> | Exam 1 Review | Exam 1 Spring 2023  | Solutions |
