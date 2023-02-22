@@ -29,4 +29,7 @@ title: Course Notes
 | `Section 14.1` | <a href = "{{ site.baseurl }}/CourseMaterials/Notes/Section14-1-Notes.pdf">Functions of two variables</a> | |
 | `Section 14.2` | <a href = "{{ site.baseurl }}/CourseMaterials/Notes/Section-14-2.pdf">Limits and continuity</a> | |
 | `Section 14.3` | <a href = "#">Notes</a> | |
+| `Section 14.4` | <a href = "#">Notes</a> | | 
+| `Section 14.5` | <a href = "{{ site.baseurl }}/CourseMaterials/Notes/Section-14-5-Notes.pdf">Multivariable chain rule</a> | |
+| `Section 14.6` | <a href = "{{ site.baseurl }}/CourseMaterials/Notes/Section-14-6-Notes.pdf">The gradient vector</a> | |
 
