@@ -11,6 +11,7 @@ title: Course Assignments
 | `Homework 2`| <a href = "{{ site.baseurl }}/CourseMaterials/Homework/Hw_2_Spring_2023.pdf">Hw 2</a> | <a href = "{{ site.baseurl }}/CourseMaterials/Homework/Hw-2-Solutions-Spring-2023.pdf">Hw 2 Solutions</a> |
 | `Homework 3`| <a href = "{{ site.baseurl }}/CourseMaterials/Homework/Hw_3_Spring_2023.pdf">Hw 3</a> | <a href = "{{ site.baseurl }}/CourseMaterials/Homework/Hw-3-Solutions-Spring2023.pdf">Hw 3 Solutions</a> |
 | `Homework 4`| <a href = "{{ site.baseurl }}/CourseMaterials/Homework/Hw_4_Spring_2023.pdf">Hw 4</a> | <a href = "#">Solutions</a> |
+| `Homework 5`| <a href = "{{ site.baseurl }}/CourseMaterials/Homework/Hw_5_Spring_2023.pdf">Hw 5</a> | <a href = "#">Solutions</a> |
 
 ## Quizzes
 
@@ -25,4 +26,5 @@ title: Course Assignments
 
 |          | Practice Exam | Practice Exam Solutions | Review Questions | Assignment | Solutions |
 |:---------|:--------------|:------------------------|:-----------------|:-----------|:----------|
-| `Exam 1` | <a href = "#">A Practice Exam 1</a> | <a href = "#">Solutions</a> | Exam 1 Review | Exam 1 Spring 2023  | Solutions |
+| `Exam 1` | <a href = "{{ site.baseurl }}/CourseMaterials/Exams/Exam_1_Spring_2022.pdf">Practice Exam 1</a> | <a href = "#">Solutions</a> | Exam 1 Review | Exam 1 Spring 2023  | Solutions |
+| `Exam 2` | <a href = "#">Practice Exam 2</a> | Solutions | Exam 2 Review | Exam 2 Spring 2023 | Solutions |
