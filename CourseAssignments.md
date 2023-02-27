@@ -26,5 +26,5 @@ title: Course Assignments
 
 |          | Practice Exam | Practice Exam Solutions | Review Questions | Assignment | Solutions |
 |:---------|:--------------|:------------------------|:-----------------|:-----------|:----------|
-| `Exam 1` | <a href = "{{ site.baseurl }}/CourseMaterials/Exams/Exam_1_Spring_2022.pdf">Practice Exam 1</a> | <a href = "#">Solutions</a> | Exam 1 Review | Exam 1 Spring 2023  | Solutions |
+| `Exam 1` | <a href = "{{ site.baseurl }}/CourseMaterials/Exams/Exam_1_Spring_2022.pdf">Practice Exam 1</a> | <a href = "{{ site.baseurl }}/CourseMaterials/Exams/Exam_1_Spring2022_Solutions.pdf">Solutions</a> | Exam 1 Review | Exam 1 Spring 2023  | Solutions |
 | `Exam 2` | <a href = "#">Practice Exam 2</a> | Solutions | Exam 2 Review | Exam 2 Spring 2023 | Solutions |
