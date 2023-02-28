@@ -22,3 +22,11 @@ An animation of the family of contour lines corresponding to $ \{ (x,y) \mid f(x
 Several parallel translates of the $xy$-plane are shown. They each intersect the graph $z = f(x,y)$ along a collection of space curves. The contour lines are obtained by projecting these space curves onto the $xy$-plane.
 
 <img src="{{ site.baseurl }}/CourseMaterials/Notes/finalAnimation.gif" width="750" height="750" />
+
+### A more complicated surface
+
+Here are the contour curves of a more generic surface.
+
+<img src="{{ site.baseurl }}/CourseMaterials/PythonNotebooks/Bigcontour.gif" width="750" height="750" />
+
+It's interesting to compare the graph $z = f(x,y)$ with that of the gradient vector field $\nabla f$. 
